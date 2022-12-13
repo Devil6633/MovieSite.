@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../JavaScript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.CustomBrowser": "chrome",
+		"liveServer.settings.fullReload": true,
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
+	}
+}
